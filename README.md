@@ -1,6 +1,3 @@
-# MDC-100 Series of Codelabs
+#2022-2 모바일 앱 개발 프로젝트
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## By using final project
